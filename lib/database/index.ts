@@ -29,3 +29,5 @@ export const connectToDatabase = async () => {
 
 
 // mongodb+srv://ecommerce-Coder:46583954@coderdatabase.bwdyham.mongodb.net/?retryWrites=true&w=majority
+
+// WEBHOOK_SECRET=whsec_YqroXBAJ9dWRKD9Xld0F+cqbn3fWReip
