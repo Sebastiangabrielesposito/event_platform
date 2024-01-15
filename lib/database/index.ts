@@ -18,6 +18,8 @@ export const connectToDatabase = async () => {
 
   cached.conn = await cached.promise;
 
+  console.log("Conexión exitosa a la base de datos.");
+  
   return cached.conn;
 }
 
