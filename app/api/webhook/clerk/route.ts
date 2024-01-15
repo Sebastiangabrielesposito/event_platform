@@ -105,5 +105,3 @@ export async function POST(req: Request) {
  
   return new Response('', { status: 200 })
 }
-
-// WEBHOOK_SECRET=whsec_mRo5YOEw3Dq+fFGhaZcDRicYRgEBSPHJ
